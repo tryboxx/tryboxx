@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.shakecoders.com">Shakecoders Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: k_lowiec](https://img.shields.io/twitter/follow/k_lowiec?style=social)](https://twitter.com/k_lowiec)
+[![Twitter: chrislowiec](https://img.shields.io/twitter/follow/chrislowiec?style=social)](https://twitter.com/chrislowiec)
 [![Linkedin: krzysztoflowiec](https://img.shields.io/badge/-krzysztoflowiec-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krzysztoflowiec/)](https://www.linkedin.com/in/krzysztoflowiec/)
 [![GitHub tryboxx](https://img.shields.io/github/followers/tryboxx?label=follow&style=social)](https://github.com/tryboxx)
 
