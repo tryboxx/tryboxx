@@ -1,6 +1,6 @@
 <h2> So... I'm Chris - nice to meet you!</h2>
 <img align='right' src="https://media.giphy.com/media/kG43Pr7oqziidbqe5g/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.shakecoders.com">Shakecoders Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Senior Software Enginner at <a href="http://www.shakecoders.com">PayPal.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: chrislowiec](https://img.shields.io/twitter/follow/chrislowiec?style=social)](https://twitter.com/chrislowiec)
